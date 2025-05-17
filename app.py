@@ -32,7 +32,7 @@ CATEGORY_INFO = {
 @st.cache_resource
 def load_model():
 
-    model_path = 'resnet50_custom.h5'
+    model_path = 'Weights/resnet50_custom.h5'
 
     try:
 
