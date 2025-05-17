@@ -26,7 +26,7 @@ CATEGORY_INFO = {
     "Hazardous": "⚠️ Handle with care! Take to special recycling centers.",
     "Organic": "🌱 Food and plant waste. Great for making garden soil.",
     "Recyclable": "♻️ Clean it and put it in your recycling bin.",
-    "Non-recyclable": "🚫 Goes in regular trash. Try to use less of these items."
+    "Non-recyclable": "🚫 Goes in regular trash"
 }
 
 @st.cache_resource
