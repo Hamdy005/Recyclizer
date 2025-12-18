@@ -48,5 +48,5 @@ An AI-powered image classification app that identifies and categorizes waste int
    streamlit run app.py
    
 Or try the live demo here:
-https://recyclizer.streamlit.app/
+[https://recyclizer.streamlit.app/](https://hamdy-recyclizer.streamlit.app/)
   
